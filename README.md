@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Dominic — aka **DO IT BY CODE**
+# DO IT BY CODE  
+*Crafted by Dominic*
 
 💻 **Full-Stack JavaScript Developer**  
 React • Next.js • Node.js • Express • MongoDB • Tailwind CSS  
