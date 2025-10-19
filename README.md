@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dominic — aka **DO IT BY CODE**
 
-<!--
-**DO-IT-BY-CODE/DO-IT-BY-CODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack JavaScript Developer**  
+React • Next.js • Node.js • Express • MongoDB • Tailwind CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I’m a full-stack JavaScript developer focused on building fast, responsive, and modern web applications.  
+My work centers on writing clean, scalable code and delivering efficient solutions that combine design with functionality.  
+I’m passionate about technology, continuous improvement, and using software to solve real problems.  
+
+---
+
+### 🧰 Tech Stack
+**Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+> 💬 *“Don’t talk — DO IT BY CODE.”*
